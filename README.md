@@ -3,7 +3,8 @@
 ## Description
 
 Encounters is a set of tools to play D&D.  
-The app is available [here](https://encounters.4sh.dev)
+The app is available [here](https://encounters.4sh.dev)  
+You can find a small blog post about the features available in the app [here](https://4sh.dev/d-d-toolbox/)
 
 __DISCLAIMER:__  
 This project is barely in Alpha.  
