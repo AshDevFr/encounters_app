@@ -32,4 +32,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   - Refresh per character
 - Virtual tabletop
   - Multi layers
-  - Add images
+  - Add images from URL
