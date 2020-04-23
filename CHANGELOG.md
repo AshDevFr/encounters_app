@@ -11,6 +11,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 ### Removed
 
+## [0.1.1] - 2020-04-23
+
+### Added
+
+- Experimental dungeon builder
+- Links to github
+
+### Changed
+
+- Fix a bug where removing a character was not removing it from campaigns
+
 ## [0.1.0] - 2020-04-19
 
 ### Added
