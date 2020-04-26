@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 ### Removed
 
+## [0.2.0] - 2020-04-25
+
+### Added
+
+- Send the activation link again
+- Create maps in the editor
+- Auto save and restore maps when editing them 
+
 ## [0.1.1] - 2020-04-23
 
 ### Added
