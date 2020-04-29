@@ -11,6 +11,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 ### Removed
 
+## [0.2.1] - 2020-04-28
+
+### Added
+
+- Added better error handling
+
+### Changed
+
+- Fix skills proficiency values & custom bonuses
+- Fix dungeon save
+- Fix save when using zoom
+
 ## [0.2.0] - 2020-04-25
 
 ### Added
