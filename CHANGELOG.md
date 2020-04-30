@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Fix skills proficiency values & custom bonuses
 - Fix dungeon save
 - Fix save when using zoom
+- Fix issue with skills proficiency
 
 ## [0.2.0] - 2020-04-25
 
