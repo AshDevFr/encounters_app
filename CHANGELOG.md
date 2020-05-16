@@ -11,6 +11,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 ### Removed
 
+## [0.3.0] - 2020-05-15
+
+### Added
+
+- Line of Sight
+- FOW
+- Add contextual menu placeholder
+- Side bar for the editor
+
+### Changed
+
+- Refactored the Zoom
+- Refactored the Map model introducing breaking changes
+  - Reseting the existing maps that would break with the new model
+
 ## [0.2.1] - 2020-04-28
 
 ### Added
