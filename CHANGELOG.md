@@ -11,6 +11,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 ### Removed
 
+## [0.3.1] - 2020-05-17
+
+### Added
+
+- Duplicate maps
+- In line mode all objects become not selectable
+- Using shift in polygon mode will generate lines and stop the polygon mode
+
+### Changed
+
+- Refactor toolbar to display active drawing mode
+- Enabling a drawing mode should disable the others
+- Save original opacity, visible and selectable
+
 ## [0.3.0] - 2020-05-15
 
 ### Added
